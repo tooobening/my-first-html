@@ -1,8 +1,19 @@
-.mydiv {
+.classdiv {
             background-color:  rgba(211, 112, 130, 0.5);
             width: 100%;
-            margin: 0 auto;
-            font-size: 20px;
+            text-align: center;
+            font-size: 22px;
             font-family:  "Lucida Console", Times, serif;
             height: 50px;
         }
+.div1{
+  background-color: lightblue;
+  font-family: "Papyrus";
+  font-size: 16px;
+}
+.div2{
+  background-clip: padding-box;
+  background-color: khaki;
+  font-family: "Papyrus";
+  font-size: 16px;
+}
